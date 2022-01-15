@@ -1,0 +1,85 @@
+Referência;Valor;Descrição
+C1;10uF x 25V;Capacitor Eletrolítico
+C2;22pF;Capacitor Cerâmico
+C3;22pF;Capacitor Cerâmico
+C4;100nF;Capacitor Cerâmico
+C5;10uF x 10V;Capacitor Eletrolítico
+C6;100nF;Capacitor Cerâmico
+C7;330nF;Capacitor Poliester
+C8;100nF;Capacitor Cerâmico
+C9;100nF;Capacitor Cerâmico
+C11;10uF x 10V;Capacitor Eletrolítico
+C12;100nF;Capacitor Cerâmico
+C13;10uF x 10V;Capacitor Eletrolítico
+C14;100nF;Capacitor Cerâmico
+C15;47uF x 25V;Capacitor Eletrolítico
+C16;100nF;Capacitor Cerâmico
+D1;1N4148;Diodo
+D2;1N4148;Diodo
+D3;BAT46;Diodo Schottky
+D4;BAT46;Diodo Schottky
+D5;1N4148;Diodo
+D6;BAT46;Diodo Schottky
+D7;1N4148;Diodo
+DS1;RED;LED 3mm
+DS2;GREEN;LED 3mm
+DS3;YELLOW;LED 3mm
+DS4;BLUE;LED 3mm
+J1;USB-B;Conector Fêmea USB-B (PCB 90º)
+J2;Prog ICSP;Barra de 6 pinos padrão
+J3;Adapter;Conector Fêmea 10 x 2
+J4;ICSP;Barra de 7 pinos padrão
+J5;Power Supply;Conector para Fonte de Alimentação
+L1;680uH;Indutor
+Q1;BS250;Transistor MOSFET
+Q2;BC557;Transistor PNP
+Q3;BC557;Transistor PNP
+Q4;BC547;Transistor NPN
+Q5;BC557;Transistor PNP
+Q6;BC557;Transistor PNP
+Q7;BC547;Transistor NPN
+Q8;BC547;Transistor NPN
+Q9;BS170;Transistor MOSFET
+Q10;BS250;Transistor MOSFET
+R1;1K;Resistor 1/8W
+R2;1K;Resistor 1/8W
+R3;1K;Resistor 1/8W
+R4;10K;Resistor 1/8W
+R5;10K;Resistor 1/8W
+R6;10K;Resistor 1/8W
+R7;10K;Resistor 1/8W
+R8;10K;Resistor 1/8W
+R9;1K;Resistor 1/8W
+R10;10R;Resistor 1/8W
+R11;33R;Resistor 1/8W
+R12;10K;Resistor 1/8W
+R13;1K;Resistor 1/8W
+R14;10R;Resistor 1/8W
+R15;33R;Resistor 1/8W
+R16;10K;Resistor 1/8W
+R17;820R;Resistor 1/8W
+R18;10K;Resistor 1/8W
+R19;10R;Resistor 1/8W
+R20;33R;Resistor 1/8W
+R21;1K;Resistor 1/8W
+R22;4K7;Resistor 1/8W
+R23;100K;Resistor 1/8W
+R24;2K7;Resistor 1/8W
+R25;10K;Resistor 1/8W
+R26;4K7;Resistor 1/8W
+R27;10K;Resistor 1/8W
+R28;100R;Resistor 1/8W
+R29;10K;Resistor 1/8W
+R30;2K7;Resistor 1/8W
+R31;100R;Resistor 1/8W
+R32;10K;Resistor 1/8W
+R33;33R;Resistor 1/8W
+R34;2K7;Resistor 1/8W
+R35;4K7;Resistor 1/8W
+R36;4K7;Resistor 1/8W
+SW1;Program;Chave Táctil (Switch)
+SW2;Ext Power;Chave Reversível (Alavanca)
+U1;PIC18F2550;Microcontrolador PIC (28 pinos)
+U2;MCP6002P;Amplificador Operacional (8 pinos)
+U3;78L05;Regulador de Tensão (TO-92)
+X1;20MHz;Cristal
